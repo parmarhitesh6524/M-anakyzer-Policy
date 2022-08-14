@@ -1,0 +1,39 @@
+body {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  background-color: #dfe6e9;
+  line-height: 1.5;
+}
+
+.header {
+  background: #0984e3;
+  padding: 20px;
+  margin: 0;
+  color: #fff;
+  font-size: 30px;
+  font-family: "Roboto", sans-serif;
+}
+
+.sub-header {
+  font-family: "Roboto", sans-serif;
+  padding: 10px 30px;
+  color: #000;
+  font-weight: bold;
+  margin-top: 0;
+}
+
+strong {
+  display: block;
+  color: #000;
+  font-family: "Roboto", sans-serif;
+  padding: 10px 30px;
+  font-weight: bold;
+  font-size: 23px;
+  margin-bottom: 10px;
+}
+.paragraph {
+  margin: 0 70px;
+  font-size: 18px;
+  text-align: justify;
+}
